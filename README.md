@@ -6,4 +6,4 @@ I am Yay, a developer who mainly develops in C. I am currently working on the Ye
 🇫🇷
 **Bienvenue sur mon Github !**
 
-Je suis Yay, je suis développeur etje développe principalement en C. En ce moment, je travaille sur le projet Yen 
+Je suis Yay, je suis développeur et je développe principalement en C. En ce moment, je travaille sur le projet Yen.
